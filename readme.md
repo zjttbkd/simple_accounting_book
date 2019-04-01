@@ -1,2 +1,2 @@
-# a sinple accounting book
+# a simple accounting book
 Now relying on some other libraries, can't compile for this time, still working ...
